@@ -1,0 +1,9 @@
+*** Settings ***
+Resource    ../Resources/TeamApp.robot 
+Resource    ../Resources/Common.robot    
+
+*** Variables ***
+
+*** Test Cases ***
+
+*** Keywords ***

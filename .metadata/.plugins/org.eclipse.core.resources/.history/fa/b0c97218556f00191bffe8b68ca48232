@@ -1,0 +1,9 @@
+*** Settings ***
+Resource    ./PO/Landing.robot 
+Resource    ./PO/TeamSection.robot
+Resource    ./PO/TopNav.robot
+
+*** Variables ***
+
+
+*** Keywords ***

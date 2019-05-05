@@ -1,0 +1,10 @@
+*** Settings ***
+Library    SeleniumLibrary    
+
+*** Test Cases ***
+MyFirstTest
+    Log    Hello World  
+    
+FirstSeleniumTest
+    Open Browser    https:/google.com    chrome 
+    Close Browser    
